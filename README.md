@@ -136,7 +136,7 @@ Each retrieved article is classified into a study type (Clinical Trial, Review P
 
 | File                      | Description                                    |
 | ------------------------- | ---------------------------------------------- |
-| `Sanofi_Case_Study.ipynb` | Main notebook — run top to bottom              |
+| `medlit_pipeline.ipynb`   | Main notebook — run top to bottom              |
 | `articles.json`           | Cached article corpus (generated on first run) |
 | `report.txt`              | Human-readable output report                   |
 | `report.json`             | Structured results for downstream use          |
